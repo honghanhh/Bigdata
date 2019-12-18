@@ -6,7 +6,7 @@
 
 ## About the reporestory
 
-This is a hand-on instructions from setup to mini-labwork to helps us get familar with concepts of Hadoop and Spark, based on lectures and labworks of [Prof. Daniel Hagimont](http://sd-127206.dedibox.fr/hagimont/).
+This is a hand-on instructions from setup to mini-labworks to help us get familar with concepts of Hadoop and Spark, based on lectures and labworks of [Prof. Daniel Hagimont](http://sd-127206.dedibox.fr/hagimont/).
 
 
 ## Table of Contents
