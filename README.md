@@ -87,9 +87,11 @@ ssh localhost
 You are given a file containing meterological data about cities all over the planet. You have to implement two map-reduce jobs that:
 - compute the maximum temperature for each year
 - compute the number of months which had a temperature higher than a given value (a parameter).
-- the format of a line in the file is : day : month : year : temperature : city
 
-The solution is available in [01.Hadoop](https://github.com/honghanhh/bigdata/01.hadoop/)
+The format of a line in the file is : day : month : year : temperature : city
+
+The solution is available in [01.hadoop](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/Meteorology/src/MaxTemp.java) (source code) 
+and [README.md](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/README.md) (instructions)
 ### 02. Spark
 Implement the same application as in the previous labwork (Hadoop), but with Spark.
 ### 03. Streamming
