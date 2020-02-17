@@ -93,7 +93,7 @@ The format of a line in the file is : day : month : year : temperature : ci
 The solution is available in [01.hadoop](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/Meteorology/src/MaxTemp.java) (source code) 
 and [README.md](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/README.md) (instructions)
 ### 02. Spark
-Implement the same application as in the previous labwork (Hadoop), but with Spark.
+Implement the same application as in the previous labwork (Hadoop), but with Spark. The solution is available in [02.spark](https://github.com/honghanhh/bigdata/blob/master/02.spark/WordCount/src/WordCount.java)
 ### 03. Streamming
 ### 04. Scaling
 ### 05. Project
