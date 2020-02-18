@@ -93,9 +93,12 @@ The format of a line in the file is : day : month : year : temperature : ci
 The solution is available in [01.hadoop](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/Meteorology/src/MaxTemp.java) (source code) 
 and [README.md](https://github.com/honghanhh/bigdata/blob/master/01.hadoop/README.md) (instructions)
 ### 02. Spark
-Implement the same application as in the previous labwork (Hadoop), but with Spark. The solution is available in [02.spark](https://github.com/honghanhh/bigdata/blob/master/02.spark/WordCount/src/WordCount.java)
+We implement the same application as in the previous labwork (Hadoop), but with Spark. The solution is available in [02.spark](https://github.com/honghanhh/bigdata/blob/master/02.spark/WordCount/src/WordCount.java)
 ### 03. Streamming
+The solution is available in [03.streaming](https://github.com/honghanhh/bigdata/blob/master/03.streaming)
 ### 04. Scaling
+The instruction is in [04.scale](https://github.com/honghanhh/bigdata/blob/master/04.scale/projet-scalability-spark.pdf).
 ### 05. Project
-(updating)
+The objective of this project is to experiment WordCount application with Apache Storm given a Docker based environment, which allows us to simulate a cluster on our laptop. This environment allows making an evaluation of the scalability of Apache Storm.
 
+The instruction and report on the result are demonstrated in [storm_report]((https://github.com/honghanhh/bigdata/blob/master/project/storm.pdf)
